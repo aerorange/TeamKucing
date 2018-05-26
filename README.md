@@ -1,11 +1,12 @@
 # Team Koceng
 This  application  called  “Kucing  Lucuku”,  when  executed  this  application  will  render  some  3D  Object  such  as  a  Happy-looking  cat,  a  cat  house,  a  cat  food  bowl  and  a  cat  food  box  which  all  of  this  object  placed  at  outdoor  environtment  with  grass  as  a  ground  and  open  sky  with  sun  as  lightning  source.  This  application  also  allowed  user  to  moving  the  cat  object  using  keyboard  as  control.
 
-Link to repository: http://github.com/aerorange/TeamKucing
+# Links
+[Link to repository][link-repo]
 
-Link to executable: http://bit.ly/TeamKocengApps
+[Link to executable][link-exe]
 
-Link to video: (coming soon)
+[Link to video][link-video]
 
 # Anggota  tim
 1. MUHAMMAD  ARIF  FADHILAH  (155150200111096)    
@@ -16,3 +17,7 @@ Link to video: (coming soon)
 6. YOGA  PRATAMA  (155150200111031)    
 7. NAFILAH  FAUZI  (155150201111255)    
 8. RAHMA  NUR  ANGGRAENI  (155150201111249)  
+
+[link-repo]: http://github.com/aerorange/TeamKucing
+[link-exe]: http://bit.ly/TeamKocengApps
+[link-video]: https://youtu.be/3YhDA32BSVA
